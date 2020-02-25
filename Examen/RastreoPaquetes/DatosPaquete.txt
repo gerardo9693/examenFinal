@@ -1,0 +1,6 @@
+﻿Ticul,Motul,80,ESTAFETA,Tren,24-02-2020 14:00:00
+China,Cancún,446400,DHL,Avión,24-02-2020 08:00:00
+Cozumel,Playa del Carmen,1104,FEDEX,Barco,21-02-2020
+Cozumel,Playa del Carmen,1104,ESTAFETA,Tren,21-02-2020
+Izamal,BlueOcean,550,FEDEX,Avion,26-02-2020
+Izamal,Merida,750,DHL,Tren,24-02-2020
